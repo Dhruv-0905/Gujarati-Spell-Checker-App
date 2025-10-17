@@ -3,7 +3,6 @@
 This project is a sophisticated, context-aware spell checker for the Gujarati language. Unlike traditional spell checkers that only use dictionary lookups, this application leverages deep learning models to provide grammatically intelligent suggestions. The entire system is wrapped in a user-friendly web application built with Streamlit.
 
 ![Demo Screenshot](demo.gif)
-*(**Action Item:** Create a short GIF of your app working and name it `demo.gif` to replace this placeholder. Tools like [ScreenToGif](https://www.screentogif.com/) or [LiceCap](https://www.cockos.com/licecap/) are great for this.)*
 
 ## ✨ Features
 
@@ -25,6 +24,7 @@ This project is a sophisticated, context-aware spell checker for the Gujarati la
 
 The project is organized into a clean, modular structure for maintainability and deployment.
 
+```
 Gujarati_Spell_Checker_App/
 │
 ├── adjective_model.keras
@@ -39,7 +39,7 @@ Gujarati_Spell_Checker_App/
 ├── requirements.txt
 │
 └── app.py
-
+```
 
 ## 🚀 Setup and Installation
 
